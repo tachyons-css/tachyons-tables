@@ -8,6 +8,7 @@
     "url": "http://mrmrs.cc"
   },
   "style": "src/tachyons-tables.css",
+  "main": "src/tachyons-tables.css",
   "files": [
     "src",
     "css"
