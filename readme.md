@@ -1,4 +1,4 @@
-# tachyons-tables 1.0.7
+# tachyons-tables 1.0.8
 
 Tables CSS module for Tachyons
 
@@ -55,7 +55,7 @@ $ tachyons path/to/css-file.css > dist/t.css
 The easiest and most simple way to use the css is to use the cdn hosted version. Include it in the head of your html with:
 
 ```
-<link rel="stylesheet" href="http://unpkg.com/tachyons-tables@1.0.7/css/tachyons-tables.min.css" />
+<link rel="stylesheet" href="http://unpkg.com/tachyons-tables@1.0.8/css/tachyons-tables.min.css" />
 ```
 
 ##### Locally
